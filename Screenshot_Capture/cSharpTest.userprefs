@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{3EF518CB-CCFE-4908-BA6F-111691D1F9DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cSharpTest/Running.cs">
+    <Files>
+      <File FileName="cSharpTest/Program.cs" Line="161" Column="18" />
+      <File FileName="cSharpTest/Running.cs" Line="74" Column="23" />
+      <File FileName="cSharpTest/DisplayState.cs" Line="9" Column="19" />
+      <File FileName="cSharpTest/CarState.cs" Line="4" Column="21" />
+      <File FileName="cSharpTest/CarType.cs" Line="5" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.cSharpTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
