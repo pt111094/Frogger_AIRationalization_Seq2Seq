@@ -82,7 +82,7 @@ namespace cSharpTest
             displayState.topTunnelLight = topTunnelLight;
             displayState.bottomTunnelLight = bottomTunnelLight;
             List<DisplayState> items;
-            using (StreamReader file = File.OpenText("../screenshotFireStore/log_file.json"))
+            using (StreamReader file = File.OpenText("../bin/screenshotFireStore/log_file.json"))
             using (JsonTextReader reader = new JsonTextReader(file)) {
                 JObject o2 = (JObject)JToken.ReadFrom(reader);
        
