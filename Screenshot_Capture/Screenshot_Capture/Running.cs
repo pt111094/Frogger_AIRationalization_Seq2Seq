@@ -100,7 +100,7 @@ namespace cSharpTest
 
             //TODO: notice we also create screeenshots for next state
             List<DisplayState> nextitems;
-            using (StreamReader file = File.OpenText("../screenshotFireStore/log_fileNext.json"))
+            using (StreamReader file = File.OpenText("../bin/screenshotFireStore/log_fileNext.json"))
             using (JsonTextReader reader = new JsonTextReader(file))
             {
                 JObject o2 = (JObject)JToken.ReadFrom(reader);
